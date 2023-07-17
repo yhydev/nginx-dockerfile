@@ -1,1 +1,1 @@
-FROM yanyangpapa/flog
+FROM yanyangpapa/httplog
